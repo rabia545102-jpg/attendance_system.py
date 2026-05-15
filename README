@@ -1,0 +1,18 @@
+Student Attendance System
+
+This is a beginner-friendly Python mini project used to manage student attendance records.
+
+Features
+
+- Store student names
+- Mark attendance as Present or Absent
+- Count present and absent students
+- Calculate attendance percentage
+
+Technologies Used
+
+- Python
+
+File Included
+
+- attendance_system.py
